@@ -1,4 +1,4 @@
-# ace-iac-day-zero (Lab 1 and Lab 2)
+# MultiCloud Network Connectivity
 
 This repository builds out the following infrastructure for the Aviatrix ACE IaC course:
 
